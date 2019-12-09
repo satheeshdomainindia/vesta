@@ -29,7 +29,7 @@ ssh root@your.server
 
 Download the installation script:
 ```bash
-curl -o https://raw.githubusercontent.com/satheeshdomainindia/vesta/master/install/vst-install.sh 
+curl -O https://raw.githubusercontent.com/satheeshdomainindia/vesta/master/install/vst-install.sh 
 ```
 Then run it:
 ```bash
